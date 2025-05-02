@@ -1,5 +1,5 @@
 # Grupo 04 PSEL LAMFO
-<p align="center" ><br><img src="assets/llamfo.jpg" width = 40%></p>
+<p align="center" ><br><img src="assets/lamfol.png" width = 40%></p>
 
 
 Este repositório foi criado para a documentação da oficina do PSEL LAMFO 2025.

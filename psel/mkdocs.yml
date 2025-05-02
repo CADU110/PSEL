@@ -3,7 +3,7 @@ site_name: LAMFO
 nav:
   - Início: index.md
   - Oficina: home.md
-  - Apresentações: apresentacoes.md
+  - Apresentação: apresentacoes.md
 
 
 theme:
@@ -30,7 +30,7 @@ theme:
   nav_style: dark
   language: pt
   repo: fontawesome/brands/github
-  logo: assets/lamfo.png
+  logo: assets/lamfot.png
   favicon: assets/lamfo.png
 
   palette:
